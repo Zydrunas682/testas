@@ -1,0 +1,1 @@
+print("labas pasaulis2")
